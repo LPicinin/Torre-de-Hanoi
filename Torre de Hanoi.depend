@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1474981722 source:c:\users\luish\desktop\torre de hanoi\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Pilhas_Multiplas.h"
+	"telaP.h"
+	<math.h>
+	<string.h>
+
+1474591377 c:\users\luish\desktop\torre de hanoi\pilhas_multiplas.h
+	<stdio.h>
+	<conio.h>
+
+1474981104 c:\users\luish\desktop\torre de hanoi\telap.h
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+
